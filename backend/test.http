@@ -1,0 +1,8 @@
+POST http://localhost:5000/chat/reflection
+Content-Type: application/json
+
+{
+  "user_id": "u_001",
+  "media_id": "vid_ln_001",
+  "answer": "I think the characters learned to understand each other and overcome differences."
+}

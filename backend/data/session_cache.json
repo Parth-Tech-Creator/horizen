@@ -1,0 +1,31 @@
+{
+    "u_001": {
+        "media": {
+            "id": "vid_wrongrock_2018",
+            "title": "The Wrong Rock",
+            "tags": [
+                "culture",
+                "identity",
+                "conflict",
+                "growth",
+                "kindness",
+                "teamwork"
+            ],
+            "video_file": "vid_wrongrock_2018.mp4",
+            "description": "The Wrong Rock is an allegorical masterpiece that addresses xenophobia, border politics, and the social construct of 'belonging' through the journey of a mushroom named Martin. Born on a 'wrong' rock where he is physically different from the established population, Martin embarks on a perilous journey to find the 'right' rock, only to discover that the inhabitants there are equally exclusionary. The moral dilemma is centered on the arbitrary nature of geographic and cultural identity; the film challenges the 'us vs. them' mentality by showing that the struggle for survival is universal. The perspective shift occurs when a global threat (the rising tide/cracking rocks) forces the different species to realize that their survival depends on collaboration rather than segregation. For an AI reflection system, this media provides a framework for analyzing systemic bias and the developmental transition from tribalism to global citizenship. It strengthens tolerance and cultural openness by exposing the absurdity of exclusion based on origin. The narrative serves as a psychological study on resilience, as Martin\u2019s persistence eventually leads to a collective awakening. It reinforces that shared humanity (or in this case, shared existence) is a more valid foundation for society than the 'rock' one happens to be born on.",
+            "reason": "Selected to strengthen tolerance and support cultural_openness."
+        },
+        "session_intro": {
+            "quote": "\u2018The wrong rock\u2019 is not a place but an idea that separates us. Martin\u2019s journey teaches us that true belonging lies beyond our birthplace or origin, in the shared challenges and triumphs of humanity.',",
+            "focus_trait": "tolerance",
+            "message": "In this session, we will explore how 'The Wrong Rock' can help us understand and challenge our own biases related to cultural identity and belonging. By delving into the themes of xenophobia, team work, and global citizenship, we aim to foster a deeper sense of tolerance and understanding."
+        },
+        "reflection_questions": [
+            "How do Martin's experiences reflect the real-world challenges faced by individuals from marginalized communities?",
+            "Can you identify instances in history or current events that mirror the 'rock' mentality portrayed in the story?",
+            "In what ways can the narrative of 'The Wrong Rock' be applied to address systemic biases and promote inclusivity in your community?",
+            "What role does kindness play in breaking down barriers between different groups, as depicted in the story?",
+            "How might Martin's journey inspire us to re-evaluate our own beliefs about identity and belonging?"
+        ]
+    }
+}

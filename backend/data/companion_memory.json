@@ -1,0 +1,11 @@
+[
+  {
+    "user_id": "u_001",
+    "companion_memory": {
+      "summary": "hello",
+      "last_emotion": "unknown",
+      "topic": "general",
+      "last_checkin": "2026-03-08"
+    }
+  }
+]

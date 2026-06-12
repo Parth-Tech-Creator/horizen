@@ -1,0 +1,93 @@
+[
+    {
+        "user_id": "u_001",
+        "media_id": "vid_ln_001",
+        "answer": "I think the characters learned to understand each other and overcome differences.",
+        "understanding_score": 0.85,
+        "timestamp": "2026-03-04T01:47:06.911940"
+    },
+    {
+        "user_id": "u_001",
+        "media_id": "vid_ln_001",
+        "answer": "I think the characters learned to understand each other and overcome differences.",
+        "understanding_score": 0.85,
+        "timestamp": "2026-03-05T09:23:08.942515"
+    },
+    {
+        "user_id": "u_001",
+        "media_id": "vid_ln_001",
+        "answer": "well\nidk\nmaybe\nsunbath\nzola",
+        "understanding_score": 0.3,
+        "timestamp": "2026-03-06T01:37:15.975511"
+    },
+    {
+        "user_id": "u_001",
+        "media_id": "vid_ln_001",
+        "answer": "The character felt excluded because others ignored him.\nMaybe the others didn\u2019t notice how he felt.\nHe could talk to them instead of staying silent.\n The friend should have supported him.\n Understanding others\u2019 feelings can prevent conflict.",
+        "understanding_score": 0.7,
+        "timestamp": "2026-03-06T01:39:58.098927"
+    },
+    {
+        "user_id": "u_001",
+        "media_id": "vid_pres_2014",
+        "answer": "",
+        "understanding_score": 0.6,
+        "timestamp": "2026-03-06T09:41:44.470154"
+    },
+    {
+        "user_id": "u_001",
+        "media_id": "vid_ln_001",
+        "answer": "",
+        "understanding_score": 0.6,
+        "timestamp": "2026-03-06T09:49:20.687332"
+    },
+    {
+        "user_id": "u_001",
+        "media_id": "vid_pres_2014",
+        "answer": "",
+        "understanding_score": 0.6,
+        "timestamp": "2026-03-06T09:58:07.186864"
+    },
+    {
+        "user_id": "u_001",
+        "media_id": "vid_pres_2014",
+        "answer": "",
+        "understanding_score": 0.7,
+        "timestamp": "2026-03-06T10:00:47.699085"
+    },
+    {
+        "user_id": "u_001",
+        "media_id": "vid_pres_2014",
+        "answer": "hh\ngug\nhvh\nj\nnm",
+        "understanding_score": 0.2,
+        "timestamp": "2026-03-06T17:44:07.054770"
+    },
+    {
+        "user_id": "u_001",
+        "media_id": "vid_alike_2015",
+        "answer": "by following one's heart rather then blindly following everything we been told\nya when going to parties with my parents \nhaving to act in a specific way is often quite a hassle specially when its something i don't believe in\nshowing kindness help people to show their true self and feel safe , when my friend accepted my differnt point of view of life i get to explore that part even more\ni think social norms should be there when its everyone's benifit but when its comes to indivisual the social norms shouldn't be taken as seriously ",
+        "understanding_score": 0.8,
+        "timestamp": "2026-03-07T23:40:32.014122"
+    },
+    {
+        "user_id": "u_001",
+        "media_id": "vid_wrongrock_2018",
+        "answer": "people have to accept norm and live with it \nmy interacting and learning about different cultures\nyes when people differentiate between people and expect us to act the same way \nwell i always interact with people without any thing in mind\nyes if we all just accept that everyone is different still we are all the same we can see beyond our normal view",
+        "understanding_score": 0.7,
+        "timestamp": "2026-03-08T00:21:09.677601"
+    },
+    {
+        "user_id": "u_001",
+        "media_id": "vid_wrongrock_2018",
+        "answer": "as\nsa\nas\nas\nas",
+        "understanding_score": 0.4,
+        "timestamp": "2026-03-08T05:22:27.868124"
+    },
+    {
+        "user_id": "u_001",
+        "media_id": "vid_wrongrock_2018",
+        "answer": "h\nh\nh\nh\nh",
+        "understanding_score": 0.3,
+        "timestamp": "2026-03-08T05:25:53.099593"
+    }
+]

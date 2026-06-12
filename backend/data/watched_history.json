@@ -1,0 +1,49 @@
+[
+  {
+    "user_id": "u_001",
+    "recent_media": [
+      {
+        "id": "vid_ln_001",
+        "intensity": 0.4,
+        "traits_targeted": [
+          "tolerance",
+          "cultural_openness"
+        ]
+      },
+      {
+        "id": "vid_found_001",
+        "intensity": 0.7,
+        "traits_targeted": [
+          "tolerance",
+          "self_acceptance"
+        ]
+      },
+      {
+        "id": "vid_wrongrock_2018",
+        "intensity": 0.5,
+        "traits_targeted": [
+          "tolerance",
+          "cultural_openness"
+        ]
+      },
+      {
+        "id": "vid_hairlove_2019",
+        "intensity": 0.5,
+        "traits_targeted": [
+          "tolerance",
+          "self_acceptance"
+        ]
+      },
+      {
+        "id": "vid_alike_2015",
+        "intensity": 0.5,
+        "traits_targeted": [
+          "tolerance",
+          "cultural_openness"
+        ]
+      }
+    ],
+    "last_intensity": 0.5,
+    "last_primary_trait": "tolerance"
+  }
+]

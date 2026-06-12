@@ -1,0 +1,614 @@
+[
+  {
+    "id": "vid_pres_2014",
+    "title": "The Present",
+    "age_group": "teen",
+    "traits": {
+      "empathy": 0.95,
+      "tolerance": 0.8,
+      "cultural_openness": 0.2,
+      "self_acceptance": 0.9,
+      "resilience": 0.85,
+      "emotional_awareness": 0.9,
+      "gender_equality": 0.3,
+      "bias_awareness": 0.8,
+      "confidence": 0.7,
+      "critical_thinking": 0.6,
+      "creativity": 0.3,
+      "curiosity": 0.4,
+      "communication": 0.4,
+      "collaboration": 0.2,
+      "leadership": 0.1,
+      "self_regulation": 0.7,
+      "ethical_reasoning": 0.5,
+      "perspective_taking": 0.95,
+      "media_literacy": 0.3,
+      "social_responsibility": 0.4
+    },
+    "tags": [
+      "growth",
+      "self_doubt",
+      "identity",
+      "kindness",
+      "family"
+    ],
+    "content_flags": {
+      "contains_war": false,
+      "contains_violence": false,
+      "contains_gore": false,
+      "contains_sexual_content": false,
+      "contains_drug_reference": false,
+      "contains_self_harm": false,
+      "mature_relationships": false
+    },
+    "intensity": 0.6,
+    "difficulty": 0.6,
+    "reflection_summary": "The short film 'The Present' serves as a profound psychological case study in self-projection and the reconciliation of physical identity. The narrative follows a young protagonist who initially displays aggressive detachment and low emotional regulation, manifested through his immersion in a virtual environment to avoid his physical reality. The introduction of the 'gift'—a puppy with a physical disability mirroring the protagonist's own—creates an immediate externalization of his internalized ableism and self-loathing. His initial rejection of the animal is a defense mechanism; the dog represents a vulnerability he is not yet ready to accept in himself. The moral dilemma is centered on the choice between continued isolation and the risk of vulnerability. The perspective shift occurs through the observation of the dog's resilience and uninhibited joy despite its limitations. This observational learning facilitates a cognitive reappraisal of the protagonist's own situation. By the conclusion, the act of standing up and revealing his own prosthetic limb signifies a transition from self-alienation to self-acceptance. For an AI reflection system, this media is a high-value asset for analyzing how external stimuli can trigger an internal shift in self-perception. It strengthens empathy through shared experience and resilience by modeling adaptive behavior in the face of physical adversity. The lack of dialogue forces the viewer to rely on non-verbal cues, heightening emotional awareness and perspective-taking. The narrative complexity lies in the subversion of the viewer's initial judgment of the boy's character, providing a lesson in bias awareness regarding invisible struggles and the manifestations of grief or trauma    .",
+    "reflection_focus_traits": [
+      "self_acceptance",
+      "perspective_taking",
+      "empathy"
+    ]
+  },
+  {
+    "id": "vid_fvg_001",
+    "title": "Forevergreen",
+    "age_group": "teen",
+    "traits": {
+      "empathy": 0.9,
+      "tolerance": 0.6,
+      "cultural_openness": 0.3,
+      "self_acceptance": 0.7,
+      "resilience": 0.8,
+      "emotional_awareness": 0.9,
+      "gender_equality": 0.2,
+      "bias_awareness": 0.5,
+      "confidence": 0.4,
+      "critical_thinking": 0.7,
+      "creativity": 0.6,
+      "curiosity": 0.8,
+      "communication": 0.4,
+      "collaboration": 0.3,
+      "leadership": 0.2,
+      "self_regulation": 0.6,
+      "ethical_reasoning": 0.9,
+      "perspective_taking": 0.85,
+      "media_literacy": 0.5,
+      "social_responsibility": 0.7
+    },
+    "tags": [
+      "growth",
+      "loss",
+      "family",
+      "self_doubt",
+      "kindness"
+    ],
+    "content_flags": {
+      "contains_war": false,
+      "contains_violence": true,
+      "contains_gore": false,
+      "contains_sexual_content": false,
+      "contains_drug_reference": false,
+      "contains_self_harm": false,
+      "mature_relationships": false
+    },
+    "intensity": 0.75,
+    "difficulty": 0.7,
+    "reflection_summary": "Forevergreen is a sophisticated allegorical narrative that adapts the 'Prodigal Son' parable into an ecological and paternal framework. The story tracks the developmental arc of a bear cub raised by a sentient, nurturing tree. The conflict arises from the 'pull' of the artificial world—represented by human trash and junk food—which serves as a metaphor for destructive temptation and the abandonment of one's foundational values. The moral dilemma is centered on the bear's choice to reject a sustainable, nurturing relationship in favor of immediate, hollow gratification, leading to a catastrophic loss of self-regulation and environment (the fire). The perspective shift is twofold: for the bear, it is the harrowing realization of the consequence of his betrayal; for the viewer, it is the shift from a desire for 'justice' (the bear being punished) to an understanding of 'grace' (the tree's sacrificial rescue). For an AI reflection system, this media is a critical tool for analyzing the mechanics of unearned mercy and the restoration of identity through sacrifice. It strengthens ethical reasoning by challenging the viewer's instinct for retribution, especially after the bear's transgressive act of destroying the sapling. The film's 'whittled wood' aesthetic reinforces the theme of shared origin and inherent relational value, contrasting it with the cold, 'vacuum-formed' plastic of the human world. The emotional journey concludes with the bear moving from a state of destructive rebellion to one of mournful, proactive stewardship, planting the sprout of the tree that saved him and thus completing the cycle of growth and redemption.",
+    "reflection_focus_traits": [
+      "ethical_reasoning",
+      "emotional_awareness",
+      "resilience"
+    ]
+  },
+  {
+    "id": "vid_ln_001",
+    "title": "Laika & Nemo",
+    "age_group": "child",
+    "traits": {
+      "empathy": 0.95,
+      "tolerance": 0.9,
+      "cultural_openness": 0.8,
+      "self_acceptance": 0.7,
+      "resilience": 0.6,
+      "emotional_awareness": 0.8,
+      "gender_equality": 0.2,
+      "bias_awareness": 0.85,
+      "confidence": 0.5,
+      "critical_thinking": 0.4,
+      "creativity": 0.7,
+      "curiosity": 0.9,
+      "communication": 0.6,
+      "collaboration": 0.9,
+      "leadership": 0.2,
+      "self_regulation": 0.5,
+      "ethical_reasoning": 0.6,
+      "perspective_taking": 0.9,
+      "media_literacy": 0.3,
+      "social_responsibility": 0.4
+    },
+    "tags": [
+      "friendship",
+      "identity",
+      "culture",
+      "kindness",
+      "teamwork"
+    ],
+    "content_flags": {
+      "contains_war": false,
+      "contains_violence": false,
+      "contains_gore": false,
+      "contains_sexual_content": false,
+      "contains_drug_reference": false,
+      "contains_self_harm": false,
+      "mature_relationships": false
+    },
+    "intensity": 0.4,
+    "difficulty": 0.5,
+    "reflection_summary": "Laika & Nemo is a masterclass in non-verbal communication and the deconstruction of perceived 'otherness.' The narrative utilizes a high-contrast visual metaphor—an astronaut (Nemo) and a deep-sea diver (Laika)—to illustrate the psychological and physical barriers to social connection. Both characters inhabit a world where their specific 'gear' makes them outliers, leading to a shared experience of isolation despite their vastly different backgrounds. The core emotional journey involves the transition from loneliness to radical inclusion. The moral dilemma is subtle: it addresses the choice to overcome the fear of the unknown in favor of curiosity and companionship. For an AI reflection system, the film provides data on the efficacy of 'common ground' theory; the characters find unity not through shared biology or language, but through shared marginalization and the mutual need for assistance. This collaboration strengthens the trait of perspective-taking, as each character must adapt to the other's environment to survive or succeed. The perspective shift occurs when the characters realize that their perceived differences (space vs. sea) are functionally identical in their restrictive nature, allowing for a deep, empathetic bond. The film effectively targets bias awareness by showing how external 'suits' or labels can obscure the internal person. It serves as a developmental tool for emotional learning, demonstrating that kindness and teamwork are universal bridge-builders that transcend environmental or cultural boundaries.",
+    "reflection_focus_traits": [
+      "empathy",
+      "collaboration",
+      "perspective_taking"
+    ]
+  },
+  {
+    "id": "vid_found_001",
+    "title": "Foundling",
+    "age_group": "teen",
+    "traits": {
+      "empathy": 0.85,
+      "tolerance": 0.7,
+      "cultural_openness": 0.4,
+      "self_acceptance": 0.9,
+      "resilience": 0.8,
+      "emotional_awareness": 0.9,
+      "gender_equality": 0.2,
+      "bias_awareness": 0.75,
+      "confidence": 0.6,
+      "critical_thinking": 0.8,
+      "creativity": 0.5,
+      "curiosity": 0.6,
+      "communication": 0.3,
+      "collaboration": 0.2,
+      "leadership": 0.1,
+      "self_regulation": 0.7,
+      "ethical_reasoning": 0.85,
+      "perspective_taking": 0.95,
+      "media_literacy": 0.4,
+      "social_responsibility": 0.6
+    },
+    "tags": [
+      "identity",
+      "self_doubt",
+      "growth",
+      "conflict",
+      "kindness"
+    ],
+    "content_flags": {
+      "contains_war": false,
+      "contains_violence": false,
+      "contains_gore": false,
+      "contains_sexual_content": false,
+      "contains_drug_reference": false,
+      "contains_self_harm": false,
+      "mature_relationships": false
+    },
+    "intensity": 0.7,
+    "difficulty": 0.8,
+    "reflection_summary": "The short film 'Foundling' operates as a profound exploration of existential identity and the social constructs of 'belonging' versus 'origin.' The narrative centers on a protagonist who discovers their synthetic or 'othered' nature in a world that demands organic authenticity. This discovery triggers an immediate crisis of self-doubt and a breakdown of the character's internal schema. The moral dilemma is rooted in the tension between perceived worth and inherent value; the protagonist must decide if their artificial origin invalidates their lived experiences and emotional capacity. For an AI reflection system, this media provides a high-density study of 'Othering' and the psychological impact of social stigma. The perspective shift is achieved when the protagonist moves from viewing their mechanical/different nature as a defect to recognizing it as a unique mode of being. This transition requires significant cognitive resilience and ethical reasoning regarding what constitutes a 'soul' or a 'valid life.' The film strengthens perspective-taking by forcing the viewer to inhabit a non-normative body and navigate the resulting social friction. It serves as a developmental tool for addressing bias awareness, particularly the biases held against those who do not fit traditional biological or social templates. The emotional journey concludes with a fragile but vital self-acceptance, illustrating that identity is an ongoing construct rather than a fixed biological imperative. The high difficulty score reflects the abstract nature of the 'foundling's' struggle, which mirrors real-world experiences of adoption, neurodivergence, or being a marginalized minority within a dominant culture.",
+    "reflection_focus_traits": [
+      "perspective_taking",
+      "self_acceptance",
+      "ethical_reasoning"
+    ]
+  },
+  {
+    "id": "vid_noria_001",
+    "title": "La Noria",
+    "age_group": "teen",
+    "traits": {
+      "empathy": 0.6,
+      "tolerance": 0.2,
+      "cultural_openness": 0.3,
+      "self_acceptance": 0.8,
+      "resilience": 0.9,
+      "emotional_awareness": 0.9,
+      "gender_equality": 0.1,
+      "bias_awareness": 0.4,
+      "confidence": 0.7,
+      "critical_thinking": 0.5,
+      "creativity": 0.8,
+      "curiosity": 0.4,
+      "communication": 0.2,
+      "collaboration": 0.3,
+      "leadership": 0.1,
+      "self_regulation": 0.6,
+      "ethical_reasoning": 0.3,
+      "perspective_taking": 0.8,
+      "media_literacy": 0.4,
+      "social_responsibility": 0.2
+    },
+    "tags": [
+      "loss",
+      "growth",
+      "self_doubt",
+      "family",
+      "conflict"
+    ],
+    "content_flags": {
+      "contains_war": false,
+      "contains_violence": true,
+      "contains_gore": false,
+      "contains_sexual_content": false,
+      "contains_drug_reference": false,
+      "contains_self_harm": false,
+      "mature_relationships": false
+    },
+    "intensity": 0.85,
+    "difficulty": 0.75,
+    "reflection_summary": "La Noria functions as a sophisticated allegorical exploration of the grieving process, specifically focusing on the internal shadows created by the loss of a parental figure. The protagonist, a young boy, is initially depicted in a state of stasis, unable to complete a mechanical Ferris wheel—a symbol of the cyclical nature of life and memory. The horror elements, characterized by monstrous, skeletal entities, serve as externalized manifestations of the boy's grief-induced trauma and depression. These 'monsters' do not represent external threats but rather the internal 'brokenness' the protagonist feels. The moral and developmental dilemma centers on the boy's choice: to be consumed by these dark manifestations or to acknowledge their presence as part of his new reality. The narrative's pivot occurs when the protagonist stops fleeing and instead offers a missing piece of himself—his own tears and the mechanical part—to the entities. This act of radical acceptance transforms the monsters back into fragmented memories of his father, suggesting that grief, when confronted rather than repressed, can be integrated into a functional identity. For an AI developmental system, this media provides a high-fidelity model for analyzing emotional resilience and the transition from avoidance-based coping to acceptance-based integration. It strengthens perspective-taking by forcing the viewer to re-evaluate the 'villainous' nature of the shadows. The core emotional journey is one of sublimation, where the intensity of the horror serves to highlight the eventual peace found in self-acceptance. The film reinforces that creativity and memory are vital tools for navigating psychological crises.",
+    "reflection_focus_traits": [
+      "resilience",
+      "emotional_awareness",
+      "self_acceptance"
+    ]
+  },
+  {
+    "id": "vid_hairlove_2019",
+    "title": "Hair Love",
+    "age_group": "child",
+    "traits": {
+      "empathy": 0.9,
+      "tolerance": 0.6,
+      "cultural_openness": 0.95,
+      "self_acceptance": 0.95,
+      "resilience": 0.8,
+      "emotional_awareness": 0.85,
+      "gender_equality": 0.9,
+      "bias_awareness": 0.9,
+      "confidence": 0.9,
+      "critical_thinking": 0.5,
+      "creativity": 0.7,
+      "curiosity": 0.4,
+      "communication": 0.8,
+      "collaboration": 0.85,
+      "leadership": 0.3,
+      "self_regulation": 0.7,
+      "ethical_reasoning": 0.5,
+      "perspective_taking": 0.9,
+      "media_literacy": 0.4,
+      "social_responsibility": 0.6
+    },
+    "tags": [
+      "culture",
+      "family",
+      "identity",
+      "kindness",
+      "growth",
+      "teamwork"
+    ],
+    "content_flags": {
+      "contains_war": false,
+      "contains_violence": false,
+      "contains_gore": false,
+      "contains_sexual_content": false,
+      "contains_drug_reference": false,
+      "contains_self_harm": false,
+      "mature_relationships": false
+    },
+    "intensity": 0.5,
+    "difficulty": 0.4,
+    "reflection_summary": "Hair Love is a culturally significant narrative that deconstructs traditional gender roles and racial stereotypes through the lens of a domestic morning routine. The film follows a Black father, Stephen, attempting to style his daughter Zuri’s natural hair—a task he initially finds overwhelming and physically demanding. The 'hair' itself acts as a vibrant, sentient character, representing the complexity and beauty of Black identity. The moral and social dilemma is rooted in the subversion of the 'deadbeat father' trope; Stephen’s persistence in mastering a 'maternal' skill demonstrates active, nurturing fatherhood. The perspective shift occurs when the viewer moves from seeing the hair as an obstacle to seeing it as a source of pride and connection, culminating in the revelation that the mother’s absence is due to her hospitalization for cancer. For an AI reflection system, this media provides high-value data on normalizing diverse family dynamics and the intersection of self-acceptance and cultural heritage. The film strengthens confidence in children by validating their natural features and encourages gender equality by modeling domestic labor as a shared responsibility. The final scene—a bald mother being embraced by her family—extends the theme of self-acceptance beyond vanity to the core of human dignity and love during vulnerability. It highlights resilience in the face of family health crises and emphasizes the importance of representation in media for identity formation.",
+    "reflection_focus_traits": [
+      "self_acceptance",
+      "cultural_openness",
+      "gender_equality"
+    ]
+  },
+  {
+    "id": "vid_snack_001",
+    "title": "Snack Attack",
+    "age_group": "child",
+    "traits": {
+      "empathy": 0.9,
+      "tolerance": 0.7,
+      "cultural_openness": 0.4,
+      "self_acceptance": 0.3,
+      "resilience": 0.5,
+      "emotional_awareness": 0.9,
+      "gender_equality": 0.1,
+      "bias_awareness": 0.95,
+      "confidence": 0.4,
+      "critical_thinking": 0.6,
+      "creativity": 0.2,
+      "curiosity": 0.3,
+      "communication": 0.4,
+      "collaboration": 0.3,
+      "leadership": 0.1,
+      "self_regulation": 0.4,
+      "ethical_reasoning": 0.7,
+      "perspective_taking": 0.95,
+      "media_literacy": 0.3,
+      "social_responsibility": 0.5
+    },
+    "tags": [
+      "kindness",
+      "conflict",
+      "growth",
+      "identity"
+    ],
+    "content_flags": {
+      "contains_war": false,
+      "contains_violence": false,
+      "contains_gore": false,
+      "contains_sexual_content": false,
+      "contains_drug_reference": false,
+      "contains_self_harm": false,
+      "mature_relationships": false
+    },
+    "intensity": 0.5,
+    "difficulty": 0.4,
+    "reflection_summary": "Snack Attack is a quintessential narrative for studying cognitive bias and the importance of perspective-taking. The story follows an elderly woman at a train station who becomes increasingly agitated when she believes a young man is stealing her cookies. This conflict serves as an externalization of internal bias—the assumption that the 'other' is inherently transgressive based on age or appearance. The moral dilemma centers on the protagonist's lack of self-regulation and her immediate leap to judgment without verification. The perspective shift is the defining moment of the film: after the train departs, the woman discovers her own unopened cookie pack in her bag, realizing she was the one consuming the young man's snacks. This reversal forces a radical reappraisal of the previous interactions, transforming the young man’s behavior from 'theft' to 'generosity.' For an AI reflection system, this film is a high-utility asset for modeling 'fundamental attribution error'—the tendency to attribute others' actions to character while attributing our own to circumstances. It strengthens bias awareness by showing how easily perceptions are distorted by assumptions. The emotional journey moves from righteous indignation to profound shame and eventual enlightenment, reinforcing the trait of empathy through the painful recognition of one's own errors in judgment.",
+    "reflection_focus_traits": [
+      "bias_awareness",
+      "perspective_taking",
+      "empathy"
+    ]
+  },
+  {
+    "id": "vid_hap_cutts_001",
+    "title": "Happiness",
+    "age_group": "teen",
+    "traits": {
+      "empathy": 0.4,
+      "tolerance": 0.3,
+      "cultural_openness": 0.2,
+      "self_acceptance": 0.4,
+      "resilience": 0.3,
+      "emotional_awareness": 0.8,
+      "gender_equality": 0.1,
+      "bias_awareness": 0.9,
+      "confidence": 0.2,
+      "critical_thinking": 0.95,
+      "creativity": 0.6,
+      "curiosity": 0.5,
+      "communication": 0.2,
+      "collaboration": 0.1,
+      "leadership": 0.1,
+      "self_regulation": 0.3,
+      "ethical_reasoning": 0.85,
+      "perspective_taking": 0.7,
+      "media_literacy": 0.9,
+      "social_responsibility": 0.8
+    },
+    "tags": [
+      "identity",
+      "conflict",
+      "growth",
+      "culture",
+      "self_doubt"
+    ],
+    "content_flags": {
+      "contains_war": false,
+      "contains_violence": true,
+      "contains_gore": false,
+      "contains_sexual_content": false,
+      "contains_drug_reference": true,
+      "contains_self_harm": false,
+      "mature_relationships": false
+    },
+    "intensity": 0.8,
+    "difficulty": 0.7,
+    "reflection_summary": "Steve Cutts' 'Happiness' serves as a high-density socio-psychological critique of contemporary consumerism and the 'rat race' metaphor. The narrative centers on a rodent protagonist—a surrogate for the human condition—navigating a crowded, industrial urban landscape in pursuit of a commodified version of fulfillment. The core emotional journey is a cyclical descent into existential dread, as the protagonist repeatedly engages with predatory marketing promises that equate acquisition with joy. The moral dilemma is systemic rather than individual: the choice to participate in a dehumanizing economic structure to avoid the void of social irrelevance. A pivotal perspective shift occurs during the 'Disney-esque' drug trip sequence, where the animation style pivots to a saturated, high-fantasy aesthetic. This serves as an analytical marker for the deceptive nature of escapism, contrasting sharply with the bleak, grey reality of the subway system and the eventual rat-trap cubicle. The film strengthens critical thinking and media literacy by requiring the viewer to deconstruct brand-name satires and visual metaphors for addiction and corporate enslavement. For an AI reflection system, this media provides a robust dataset for analyzing the 'hedonic treadmill'—the psychological phenomenon where increased consumption fails to provide permanent gains in happiness. The conclusion, featuring a literal industrial trap disguised as a paycheck, highlights the loss of agency within modern social systems and encourages a rigorous re-evaluation of social responsibility and personal value systems. It targets the strengthening of bias awareness regarding societal definitions of success and fosters a deep emotional awareness of the hollow nature of materialistic pursuits.",
+    "reflection_focus_traits": [
+      "critical_thinking",
+      "media_literacy",
+      "bias_awareness"
+    ]
+  },
+  {
+    "id": "vid_alike_2015",
+    "title": "Alike",
+    "age_group": "child",
+    "traits": {
+      "empathy": 0.85,
+      "tolerance": 0.6,
+      "cultural_openness": 0.3,
+      "self_acceptance": 0.9,
+      "resilience": 0.7,
+      "emotional_awareness": 0.95,
+      "gender_equality": 0.2,
+      "bias_awareness": 0.8,
+      "confidence": 0.6,
+      "critical_thinking": 0.85,
+      "creativity": 0.95,
+      "curiosity": 0.9,
+      "communication": 0.5,
+      "collaboration": 0.4,
+      "leadership": 0.2,
+      "self_regulation": 0.6,
+      "ethical_reasoning": 0.7,
+      "perspective_taking": 0.9,
+      "media_literacy": 0.4,
+      "social_responsibility": 0.6
+    },
+    "tags": [
+      "family",
+      "growth",
+      "identity",
+      "self_doubt",
+      "kindness"
+    ],
+    "content_flags": {
+      "contains_war": false,
+      "contains_violence": false,
+      "contains_gore": false,
+      "contains_sexual_content": false,
+      "contains_drug_reference": false,
+      "contains_self_harm": false,
+      "mature_relationships": false
+    },
+    "intensity": 0.5,
+    "difficulty": 0.6,
+    "reflection_summary": "Alike is a profound visual metaphor for the tension between institutional conformity and individual creative expression. The narrative utilizes a color-based semiotic system: characters lose their vibrant hues as they succumb to the repetitive, grey routines of labor and standardized education. The core emotional journey follows a father, Copi, and his son, Paste, as they navigate a world that systematically devalues artistic impulse in favor of mechanical efficiency. The moral dilemma is centered on the father's realization that in preparing his son for 'success' in a rigid social system, he is inadvertently draining the child's internal joy and vitality. The perspective shift occurs when Copi observes his son’s literal loss of color and realizes that his own identity is tied to the preservation of his son's creative spirit. This leads to a radical act of rebellion: choosing play and music over the prescribed route to school/work. For an AI reflection system, this media provides an excellent case study on the psychological impact of social conditioning and the importance of self-acceptance. It strengthens critical thinking by prompting a re-evaluation of what constitutes a 'productive' life and highlights the developmental necessity of creativity and emotional awareness. The film reinforces that the preservation of identity requires active resistance against monochromatic social norms, emphasizing that true growth is found in the balance between responsibility and the pursuit of passion.",
+    "reflection_focus_traits": [
+      "creativity",
+      "emotional_awareness",
+      "self_acceptance"
+    ]
+  },
+  {
+    "id": "vid_pip_001",
+    "title": "Pip",
+    "age_group": "child",
+    "traits": {
+      "empathy": 0.85,
+      "tolerance": 0.7,
+      "cultural_openness": 0.2,
+      "self_acceptance": 0.75,
+      "resilience": 0.95,
+      "emotional_awareness": 0.8,
+      "gender_equality": 0.2,
+      "bias_awareness": 0.4,
+      "confidence": 0.8,
+      "critical_thinking": 0.6,
+      "creativity": 0.5,
+      "curiosity": 0.7,
+      "communication": 0.4,
+      "collaboration": 0.6,
+      "leadership": 0.5,
+      "self_regulation": 0.8,
+      "ethical_reasoning": 0.6,
+      "perspective_taking": 0.8,
+      "media_literacy": 0.2,
+      "social_responsibility": 0.85
+    },
+    "tags": [
+      "growth",
+      "self_doubt",
+      "teamwork",
+      "kindness",
+      "friendship"
+    ],
+    "content_flags": {
+      "contains_war": false,
+      "contains_violence": false,
+      "contains_gore": false,
+      "contains_sexual_content": false,
+      "contains_drug_reference": false,
+      "contains_self_harm": false,
+      "mature_relationships": false
+    },
+    "intensity": 0.5,
+    "difficulty": 0.4,
+    "reflection_summary": "Pip is a classic 'underdog' narrative that utilizes a service dog's training journey to model grit and resilience. The protagonist, a small puppy, struggles to meet the physical standards of a guide dog academy, facing repeated failure and self-doubt. The moral dilemma is centered on the conflict between standardized testing (the academy exams) and real-world application of skills. The perspective shift occurs when Pip fails the formal exam but succeeds in a high-stakes, real-world rescue, proving that 'mastery' is often best demonstrated in the context of serving others. This film effectively strengthens resilience and the understanding of social responsibility. For an AI reflection system, 'Pip' provides a clear behavioral model of the growth mindset—showing that mistakes are data points for improvement rather than permanent indicators of worth. The emotional journey is accessible and linear, making it an excellent introductory tool for younger children to discuss the concepts of perseverance and the purpose of service to the community. The film concludes by reinforcing that one's limitations do not define their ultimate value or their ability to contribute to the social good.",
+    "reflection_focus_traits": [
+      "resilience",
+      "social_responsibility",
+      "confidence"
+    ]
+  },
+  {
+    "id": "vid_wrongrock_2018",
+    "title": "The Wrong Rock",
+    "age_group": "child",
+    "traits": {
+      "empathy": 0.9,
+      "tolerance": 0.95,
+      "cultural_openness": 0.95,
+      "self_acceptance": 0.8,
+      "resilience": 0.9,
+      "emotional_awareness": 0.7,
+      "gender_equality": 0.3,
+      "bias_awareness": 0.95,
+      "confidence": 0.8,
+      "critical_thinking": 0.8,
+      "creativity": 0.4,
+      "curiosity": 0.8,
+      "communication": 0.6,
+      "collaboration": 0.7,
+      "leadership": 0.5,
+      "self_regulation": 0.6,
+      "ethical_reasoning": 0.9,
+      "perspective_taking": 0.9,
+      "media_literacy": 0.5,
+      "social_responsibility": 0.9
+    },
+    "tags": [
+      "culture",
+      "identity",
+      "conflict",
+      "growth",
+      "kindness",
+      "teamwork"
+    ],
+    "content_flags": {
+      "contains_war": false,
+      "contains_violence": false,
+      "contains_gore": false,
+      "contains_sexual_content": false,
+      "contains_drug_reference": false,
+      "contains_self_harm": false,
+      "mature_relationships": false
+    },
+    "intensity": 0.5,
+    "difficulty": 0.5,
+    "reflection_summary": "The Wrong Rock is an allegorical masterpiece that addresses xenophobia, border politics, and the social construct of 'belonging' through the journey of a mushroom named Martin. Born on a 'wrong' rock where he is physically different from the established population, Martin embarks on a perilous journey to find the 'right' rock, only to discover that the inhabitants there are equally exclusionary. The moral dilemma is centered on the arbitrary nature of geographic and cultural identity; the film challenges the 'us vs. them' mentality by showing that the struggle for survival is universal. The perspective shift occurs when a global threat (the rising tide/cracking rocks) forces the different species to realize that their survival depends on collaboration rather than segregation. For an AI reflection system, this media provides a framework for analyzing systemic bias and the developmental transition from tribalism to global citizenship. It strengthens tolerance and cultural openness by exposing the absurdity of exclusion based on origin. The narrative serves as a psychological study on resilience, as Martin’s persistence eventually leads to a collective awakening. It reinforces that shared humanity (or in this case, shared existence) is a more valid foundation for society than the 'rock' one happens to be born on.",
+    "reflection_focus_traits": [
+      "tolerance",
+      "cultural_openness",
+      "bias_awareness"
+    ]
+  },
+  {
+    "id": "vid_man_cutts_2012",
+    "title": "Man",
+    "age_group": "teen",
+    "traits": {
+      "empathy": 0.3,
+      "tolerance": 0.2,
+      "cultural_openness": 0.4,
+      "self_acceptance": 0.2,
+      "resilience": 0.3,
+      "emotional_awareness": 0.7,
+      "gender_equality": 0.1,
+      "bias_awareness": 0.85,
+      "confidence": 0.5,
+      "critical_thinking": 0.95,
+      "creativity": 0.6,
+      "curiosity": 0.4,
+      "communication": 0.2,
+      "collaboration": 0.1,
+      "leadership": 0.1,
+      "self_regulation": 0.2,
+      "ethical_reasoning": 0.95,
+      "perspective_taking": 0.8,
+      "media_literacy": 0.9,
+      "social_responsibility": 0.95
+    },
+    "tags": [
+      "conflict",
+      "growth",
+      "culture",
+      "identity"
+    ],
+    "content_flags": {
+      "contains_war": true,
+      "contains_violence": true,
+      "contains_gore": false,
+      "contains_sexual_content": false,
+      "contains_drug_reference": false,
+      "contains_self_harm": false,
+      "mature_relationships": false
+    },
+    "intensity": 0.8,
+    "difficulty": 0.6,
+    "reflection_summary": "Steve Cutts' 'Man' is a satirical, high-intensity critique of the Anthropocene, tracing the destructive trajectory of human 'civilization' through its relationship with the natural world. The narrative follows a singular, smiling human protagonist as he systematically exploits, pollutes, and destroys every ecosystem he encounters. The core emotional journey is one of increasing alienation; as the man gains material dominance and technological 'progress,' he loses all connection to biological empathy. The moral dilemma is presented as an existential crisis: the inherent conflict between infinite industrial growth and a finite planetary environment. The perspective shift occurs through the use of 'In the Hall of the Mountain King' as a musical backdrop, transforming human achievement into a frantic, grotesque march toward self-annihilation. For an AI reflection system, this media provides a stark dataset for analyzing human exceptionalism and the psychological roots of environmental degradation. It strengthens critical thinking and social responsibility by forcing the viewer to confront the logical conclusion of consumerist greed. The film concludes with a cynical reversal where the 'conqueror' is himself conquered by an external force, highlighting the fragility of human ego. It targets the development of ethical reasoning by stripping away the justifications for ecological destruction and presenting them as mindless, habitual consumption.",
+    "reflection_focus_traits": [
+      "critical_thinking",
+      "social_responsibility",
+      "ethical_reasoning"
+    ]
+  }
+]
