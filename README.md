@@ -253,6 +253,6 @@ Horizon is an evolving project, and many features are still being designed and r
 
 ## Author
 
-### Arbind Malava (CodeZila)
+### Parth
 
 > *"Expand Your Mind, Embrace the World."*
